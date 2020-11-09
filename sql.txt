@@ -1,0 +1,8 @@
+create database mypasswordmanager;
+create table keeper{
+Title varchar(200),
+Url varchar(200),
+Username varchar(200),
+Password varchar(200),
+PRIMARY KEY(Title)
+};
